@@ -1,0 +1,2 @@
+1. Em um terminal de sua preferência (recomendado: WSL), use o comando bash calculadora_modulo2.sh
+2. Siga os passos na tela para executar operações matemáticas básicas.
