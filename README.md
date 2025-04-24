@@ -1,2 +1,2 @@
-# Entrega_projeto1
- Entrega do projeto nº 1 do curso de Análise de Dados da EBAC
+Este script foi elaborado para realizar as quatro operações matemáticas básicas utilizando abreviações para identificá-las (A para adição, S para subtração, M para multiplicação e D para divisão), 
+retornando no console o resultado do cálculo solicitado.
